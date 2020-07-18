@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(240, 240, 240);
+}
+
+.canvas-container > * {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.heading {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    background-color: #bdbdbd;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    text-transform: uppercase;
+    line-height: 40px;
+    font-family: roboto condensed,sans-serif;
+
+}
